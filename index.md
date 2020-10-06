@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+### [**To view trends in individual practices select a practice using the linked explorer.**](https://sustainablefoodfarming.shinyapps.io/EQIP/)
 
-You can use the [editor on GitHub](https://github.com/EJSFF/EQIP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+*****
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# TRENDS IN EQIP FUNDING
 
-### Markdown
+# Acreage enrolled in EQIP has grown modestly in recent years but remains below 2013 levels.
+Total financial obligations peaked in 2018 at 1.8 billion. Despite increased funding, the acreage on completed and active contracts and the acreage receiving conservation are below 2013 levels.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<iframe title="TRENDS IN EQIP FUNDING" aria-label="Interactive area chart" id="datawrapper-chart-TyVJy" src="https://datawrapper.dwcdn.net/TyVJy/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="576"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+*Total financial obligations include technical assistance, financial assistance, and a small proportion of reimbursable funds. Values in plot were scaled down by 100 to share axes with acreage. Multiple plotted values by 100 for dollar amount.*
 
-```markdown
-Syntax highlighted code block
+****
 
-# Header 1
-## Header 2
-### Header 3
+> ### [**To view trends in individual practices select a practice using the linked explorer.**](https://sustainablefoodfarming.shinyapps.io/EQIP/)
 
-- Bulleted
-- List
+****
 
-1. Numbered
-2. List
+# Practices in the grazing and water quality categories account for the largest share of acreage receiving EQIP funding.
+Watering facilities, brush management, livestock pipelines, and fences are the top four practices with greatest acreage.
+<iframe title="" aria-label="Interactive area chart" id="datawrapper-chart-Jp6Nq/7/" src="https://datawrapper.dwcdn.net/Jp6Nq/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="538"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
 
-**Bold** and _Italic_ and `Code` text
+### Cover crops and nutrient management are the largest soil practices, but these practices account for far less acreage than grazing practices such as watering facilities, brush management, livestock pipelines, fences, and prescribed grazing.
 
-[Link](url) and ![Image](src)
-```
+<iframe title="SOIL AND GRAZING PRACTICES WITH GREATEST ACREAGE IN 2019" aria-label="Split Bars" id="datawrapper-chart-nXdGx" src="https://datawrapper.dwcdn.net/nXdGx/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="450"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+****
 
-### Jekyll Themes
+## Cover crops and prescribed burning have increased in the last decade, while integrated pest management declined sharply.
+*Select trends of interest are shown below.* [*Use the linked explorer to search for other practices.*](https://sustainablefoodfarming.shinyapps.io/EQIP/)
+<iframe title="TRENDS IN SELECT PRACTICE ACREAGE" aria-label="Interactive area chart" id="datawrapper-chart-9sbVT" src="https://datawrapper.dwcdn.net/9sbVT/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EJSFF/EQIP/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Practices showing large increases in acreage between 2009 and 2019:
+*2019 acreage in orange, 2009 acreage in gray*
+<iframe title="PRACTICES WITH GREATEST PERCENT INCREASE" aria-label="Range Plot" id="datawrapper-chart-Jadqn" src="https://datawrapper.dwcdn.net/Jadqn/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="815"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
 
-### Support or Contact
+## Practices showing large decreases in acreage between 2009 and 2019:
+<iframe title="PRACTICES WITH GREATEST PERCENT DECREASE" aria-label="Range Plot" id="datawrapper-chart-jz5vy" src="https://datawrapper.dwcdn.net/jz5vy/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1139"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+*The data presented in this section reflect the fiscal year in which conservation practices were applied, which can occur at any point during the duration of the EQIP contract. Note that there is overlap between categories, since some practices address multiple resource concerns. Land unit acres are counted each time a practice is applied on that land unit in the fiscal year.*
+
+***
+
+# How are EQIP funds distributed between states?
+Texas, California, Arkansas, Mississippi, Georgia, Colorado and Missouri account for 30% of all EQIP obligations, while New England states account for the lowest state-level EQIP obligations. About 5% of obligations are not tied to a specific state (headquarters, regional, or other non-State divisions). 
+
+<iframe title="2019 EQIP OBLIGATIONS BY STATE " aria-label="Map" id="datawrapper-chart-okDpn" src="https://datawrapper.dwcdn.net/okDpn/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="446"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
