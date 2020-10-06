@@ -52,3 +52,6 @@ Texas, California, Arkansas, Mississippi, Georgia, Colorado and Missouri account
 
 <iframe title="2019 EQIP OBLIGATIONS BY STATE " aria-label="Map" id="datawrapper-chart-okDpn" src="https://datawrapper.dwcdn.net/okDpn/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="446"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
+
+*[Prepared by the Earthjustice Sustainable Food and Farming program.](https://earthjustice.org/about/offices/sustainable-food-farming)*
